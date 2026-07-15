@@ -3,8 +3,6 @@ impl Solution {
     
         let sum_odd = (n*((2*1)+((n-1)*2)))/2;
         let sum_even = (n*((2*2)+((n-1)*2)))/2;
-        
-        println!("{} {}", sum_odd, sum_even);
         Self::find_gcd(&sum_odd, &sum_even)
     }
     
