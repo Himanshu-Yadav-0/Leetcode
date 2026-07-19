@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0118-pascals-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
