@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0118-pascals-triangle) |
 | [1260-shift-2d-grid](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Himanshu-Yadav-0/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
