@@ -28,7 +28,6 @@ impl Solution {
                 }
                 if right_zero>0 {
                     ans = cmp::max(ans, one_count + left_zero + right_zero);
-                    // println!("{}",ans);
                     left_zero = right_zero;
                     right_zero = 0;
                 }
